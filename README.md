@@ -40,7 +40,7 @@ The following resources were used to understand the core concepts and solve the 
     * [Networking Playlist 3](https://www.youtube.com/watch?v=1fTdar_GL9A&list=PL966g7O8Fr34AuPFQjb0v87rmtDApmmK_)
 
 ### AI Usage
-I used AI tools (Gemini) in this project for the following tasks:
+I used AI tools in this project for the following tasks:
 * **Planning:** Used AI to structure my workflow, organize the problem-solving steps for each level, and create a roadmap for learning the necessary concepts.
 * **Debugging:** To analyze simulation logs (e.g., "destination does not match any route", "loop detected") and understand why specific configurations failed.
 * **Translation:** To clarify specific technical terms and instructions in the subject document.
