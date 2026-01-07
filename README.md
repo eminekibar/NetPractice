@@ -57,8 +57,8 @@ In NetPractice, configuring a route one-way is not enough. Communication is a cy
 ### 2. IP Roles & Constraints
 | IP Type | Example (for /24) | Description | NetPractice Rule |
 | :--- | :--- | :--- | :--- |
-| **Network Address** | `192.168.1.0` | The identifier of the subnet. | - Never assign to an interface. |
-| **Broadcast Address** | `192.168.1.255` | Used to communicate with everyone. | - Never assign to an interface. |
+| **Network Address** | `14.16.1.0` | The identifier of the subnet. | - Never assign to an interface. |
+| **Broadcast Address** | `14.16.1.255` | Used to communicate with everyone. | - Never assign to an interface. |
 | **Usable Range** | `.1` - `.254` | Addresses available for hosts/routers. | + Assign these to interfaces. |
 | **Loopback** | `127.0.0.1` | Localhost. Points to the device itself. | - Cannot be used for device-to-device communication. |
 
